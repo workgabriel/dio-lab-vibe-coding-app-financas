@@ -1,5 +1,6 @@
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding
 
+Site do projeto: https://finflowchat.lovable.app
 ---
 
 > Seu **prompt final** (PRD);  
@@ -70,6 +71,11 @@ O design deve ser minimalista, focando exclusivamente na linha do tempo da conve
 
 > Prints ou pequenos vídeos das interações com a IA;  
 
+![Print1](img/print1.png)
+
+![Print2](img/print2.png)
+
+![Print3](img/print3.png)
 
 
 ---
