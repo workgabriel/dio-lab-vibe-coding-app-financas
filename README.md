@@ -71,11 +71,11 @@ O design deve ser minimalista, focando exclusivamente na linha do tempo da conve
 
 > Prints ou pequenos vídeos das interações com a IA;  
 
-![Print1](img/print1.png)
+![Print1](img/Print1.png)
 
-![Print2](img/print2.png)
+![Print2](img/Print2.png)
 
-![Print3](img/print3.png)
+![Print3](img/Print3.png)
 
 
 ---
